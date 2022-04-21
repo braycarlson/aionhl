@@ -4,7 +4,7 @@ aionhl is an asynchronous wrapper around the unofficial NHL API. It is a persona
 
 ## Prerequisites
 
-* [pyenv](https://github.com/pyenv/pyenv) or [Python 3.9.5](https://www.python.org/downloads/)
+* [pyenv](https://github.com/pyenv/pyenv)
 
 ## Setup
 
